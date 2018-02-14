@@ -1,15 +1,11 @@
-package eu.tbauer.codewars;
+package eu.tbauer.codewars.kyu7;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-/**
- * 
- * Check to see if a string has the same amount of 'x's and 'o's. The method
- * must return a boolean and be case insensitive. The string can contain any
- * char.
- */
+import eu.tbauer.codewars.kyu7.XO;
+
 public class XOTest {
 	@Test
 	public void testSomething1() {

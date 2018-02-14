@@ -3,7 +3,7 @@
  *
  * Created: 9. 2. 2018
  */
-package eu.tbauer.codewars;
+package eu.tbauer.codewars.kyu7;
 
 /**
  * Check to see if a string has the same amount of 'x's and 'o's. The method
